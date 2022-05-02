@@ -1,0 +1,14 @@
+Q.1 Whay oops introduce in programing?
+Ans-As we know that expect c all langwages are use oop consepts as it gives us fetures like inharotance,encapsulation,abstraction
+which incrise reusablity of the code and reduce programing time.
+Modular approach is an approach in which the entire program will be splitted into different parts or modules so that the execution process is made easier
+ 
+Q2.What is file handling in c?
+ans-Store avilable data in system using program.
+
+Q3.Which are the access specifiers used in c++?
+Ans-public-Access from outside the class.
+    private-CanNot Access from outside the class. 
+    proteced-they can accessed inharited class.
+Q.4 What is deta structure ?
+Ans-It is way to store deta in memory in orgnized manner.
